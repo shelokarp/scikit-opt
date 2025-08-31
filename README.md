@@ -1,25 +1,4 @@
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # [scikit-opt](https://github.com/guofei9987/scikit-opt)
 
 [![PyPI](https://img.shields.io/pypi/v/scikit-opt)](https://pypi.org/project/scikit-opt/)
@@ -31,8 +10,7 @@
 [![fork](https://img.shields.io/github/forks/guofei9987/scikit-opt?style=social)](https://github.com/guofei9987/scikit-opt/fork)
 [![Downloads](https://pepy.tech/badge/scikit-opt)](https://pepy.tech/project/scikit-opt)
 [![Discussions](https://img.shields.io/badge/discussions-green.svg)](https://github.com/guofei9987/scikit-opt/discussions)
-
-
+<a href="https://hellogithub.com/repository/guofei9987/scikit-opt" target="_blank"><img src="https://abroad.hellogithub.com/v1/widgets/recommend.svg?rid=6763d615842e4449a02f024f3e2e345c&claim_uid=se0WHo8cbiLv2w1&theme=small" alt="Featured｜HelloGitHub" /></a>
 
 
 Swarm Intelligence in Python  
